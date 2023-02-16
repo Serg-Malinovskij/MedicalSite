@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Gilroy";
   font-display: swap;
-  src: url("/fonts/Gilroy-Medium/Gilroy-Medium.ttf"), url("/fonts/Gilroy-Medium/Gilroy-Medium.woff"), url("/fonts/Gilroy-Medium/Gilroy-Medium.woff2"), url("/fonts/Gilroy-Bold/Gilroy-Bold.ttf"), url("/fonts/Gilroy-Bold/Gilroy-Bold.woff"), url("/fonts/Gilroy-Bold/Gilroy-Bold.woff2");
+  src: url("../fonts/Gilroy-Medium/Gilroy-Medium.ttf"), url("../fonts/Gilroy-Medium/Gilroy-Medium.woff"), url("../fonts/Gilroy-Medium/Gilroy-Medium.woff2"), url("../fonts/Gilroy-Bold/Gilroy-Bold.ttf"), url("../fonts/Gilroy-Bold/Gilroy-Bold.woff"), url("../fonts/Gilroy-Bold/Gilroy-Bold.woff2");
   font-weight: 500;
   font-style: normal;
 }
