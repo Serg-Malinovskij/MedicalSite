@@ -400,7 +400,7 @@ body._lock {
   display: flex;
   align-items: center;
   justify-content: stretch;
-  height: 90px;
+  height: 75px;
   border-left: 1px solid #C4C4C4;
   border-right: 1px solid #C4C4C4;
 }
@@ -421,7 +421,7 @@ body._lock {
 .header-bottom__container {
   display: flex;
   align-items: center;
-  height: 85px;
+  height: 75px;
   gap: 95px;
 }
 @media (max-width: 1295px) {
