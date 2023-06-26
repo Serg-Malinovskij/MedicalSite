@@ -35,11 +35,11 @@ const portfolioSwiper = new Swiper('.main-slider', {
 	// 		spaceBetween: 56,
 	// 	},
 	// },
-//	autoplay: {
-	// 	delay: 2000,
-	// 	//отключение автоплей при управлении пользователем: disableOnInteraction: true,
-	// 	disableOnInteraction: true,
-	//},
+	autoplay: {
+	 	delay: 2000,
+	 	//отключение автоплей при управлении пользователем: disableOnInteraction: true,
+		disableOnInteraction: true,
+	},
 	// effect: 'flip',
 
 });
